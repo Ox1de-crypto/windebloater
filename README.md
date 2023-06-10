@@ -1,4 +1,4 @@
-# windebloater
+# windebloat
 Windows debloat
 
 Better runs in Windows 10
