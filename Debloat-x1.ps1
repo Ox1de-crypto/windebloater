@@ -174,7 +174,7 @@ swap=0
 
 
 
-Write-Host "Shut the fuckuping the background apps"
+Write-Host "Shut the fucuping the background apps"
 Get-ChildItem -Path HKCU:\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications | ForEach-Object -Process {
 	Remove-ItemProperty -Path $_.PsPath -Name * -Force
 }
