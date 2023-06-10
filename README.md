@@ -1,2 +1,2 @@
 # windebloater
-Windows debloate
+Windows debloat
